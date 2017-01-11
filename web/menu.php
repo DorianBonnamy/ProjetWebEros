@@ -3,7 +3,7 @@
 	<body>
 		<table border="1">
 			<TR class="titre">
-				<TH> Accueil </TH> 
+				<TH href ="Welcome.php"> Accueil </TH> 
 				<TH> Bulletin </TH>
 				<TH> Métiers </TH>
 				<TH> Informations </TH>

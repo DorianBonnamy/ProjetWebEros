@@ -46,3 +46,10 @@ $app->get('/exo3','DUT\\Controllers\\ItemController::indexAction');
 $app['debug']=true;
 
 $app->run();
+
+
+
+
+
+
+//C'est pour le mofifier

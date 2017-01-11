@@ -3,7 +3,7 @@
 <html>
 
 	<head>
-		<title>Page d'accueil</title>
+		<title>Page d'accueil des BG</title>
 	</head>
 	<body>
 
