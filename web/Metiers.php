@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Page Métiers</title>
-		<link rel="stylesheet" href="css/style.css"/>
+		<link rel="stylesheet" href="css/Style.css"/>
 	</head>
 	<body>
 
