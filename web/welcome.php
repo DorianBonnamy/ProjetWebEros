@@ -3,7 +3,7 @@
 <html>
 
 	<head>
-		<title>Page d'accueil des Poneys bite </title>
+		<title>Page d'accueil</title>
 	</head>
 	<body>
 
